@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"็HOME Player","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":547.8,"quick":true},
+{"id":2,"expanded":true,"name":"village1","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":868.1999999999999,"quick":false},
+{"id":3,"expanded":true,"name":"village2","order":5,"parentId":0,"scrollX":982.8,"scrollY":748.1999999999999,"quick":false},
+{"id":4,"expanded":false,"name":"โบส","order":4,"parentId":0,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":5,"expanded":true,"name":"MAP005","order":7,"parentId":0,"scrollX":973.1999999999999,"scrollY":547.8,"quick":true},
+{"id":6,"expanded":false,"name":"MAP","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":549,"quick":false},
+{"id":7,"expanded":false,"name":"ร้านขายยา","order":8,"parentId":5,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":8,"expanded":false,"name":"บ้านลุงชับ","order":6,"parentId":3,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":9,"expanded":true,"name":"village3","order":9,"parentId":0,"scrollX":982.8,"scrollY":771,"quick":false},
+{"id":10,"expanded":false,"name":"บ้านหมอ","order":10,"parentId":9,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":11,"expanded":false,"name":"ร้านค้านักผจญภัญ","order":11,"parentId":9,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":12,"expanded":false,"name":"ย้านไม้","order":12,"parentId":9,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":13,"expanded":false,"name":"Forest","order":13,"parentId":0,"scrollX":982.8,"scrollY":892.1999999999999,"quick":false},
+{"id":14,"expanded":false,"name":"Forest2","order":14,"parentId":0,"scrollX":973.1999999999999,"scrollY":547.8,"quick":false},
+{"id":15,"expanded":false,"name":"Forest3","order":15,"parentId":0,"scrollX":816,"scrollY":640,"quick":false},
+{"id":16,"expanded":true,"name":"เมือง","order":16,"parentId":0,"scrollX":832,"scrollY":800,"quick":false},
+{"id":17,"expanded":false,"name":"ห้องพยาบาล","order":17,"parentId":16,"scrollX":973.1999999999999,"scrollY":549,"quick":false},
+{"id":18,"expanded":false,"name":"ฉากจบ","order":18,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+]
